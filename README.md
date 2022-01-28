@@ -1,4 +1,4 @@
-# aboutyou-vue-coding-challenge
+# vue-coding-challenge
 
 This is a best practices challenge where we want to find out more about your knowledge of coding standards and principles, use of mappers, interfaces etc.
 
