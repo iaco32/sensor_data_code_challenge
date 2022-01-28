@@ -1,8 +1,6 @@
 # vue-coding-challenge
 
-This is a best practices challenge where we want to find out more about your knowledge of coding standards and principles, use of mappers, interfaces etc.
-
-Your task is to create a sample application in Vue.js by using sensor data. [opendata-stuttgart API](https://github.com/opendata-stuttgart/meta/wiki/EN-APIs).
+Create a sample application in Vue.js by using sensor data. [opendata-stuttgart API](https://github.com/opendata-stuttgart/meta/wiki/EN-APIs).
 
 Create one page showing the overall actual environmental sensor data around the Elbphilharmonie in Hamburg. The user should be able to get the average sensordata provided by the API for a radius of 5, 10 and 20km. Please list in a table the average temperature, pressure, humidity and P1 (PM10).
 
